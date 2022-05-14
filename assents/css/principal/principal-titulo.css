@@ -1,0 +1,10 @@
+.principal__titulo {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #716565;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 5.1875em;
+    font-weight: bold;
+}

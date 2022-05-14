@@ -1,0 +1,9 @@
+.sobre {
+    width: 100vw;
+    height: 100vh;
+    background: #506FA9;
+    background-image: url(../../img/banner2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}

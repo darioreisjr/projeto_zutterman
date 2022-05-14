@@ -1,0 +1,9 @@
+.menu__link {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #846219;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1em;
+    line-height: 16px;
+    letter-spacing: 5.4px;
+}

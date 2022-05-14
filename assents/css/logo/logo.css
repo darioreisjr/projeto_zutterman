@@ -1,0 +1,5 @@
+.logo {
+    display: flex;
+    gap: 1em;
+    width: 100%;
+}

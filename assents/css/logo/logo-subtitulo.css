@@ -1,0 +1,9 @@
+.logo__subtitulo {
+    font-family: 'Roboto Condensed', sans-serif;;
+    font-size: 16.2px;
+    line-height: 19px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 5.4px;
+    color: #846219;
+}

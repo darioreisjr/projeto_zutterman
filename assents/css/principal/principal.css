@@ -1,0 +1,6 @@
+.principal {
+    width: 100vw;
+    height: calc(100vh - 102px);
+    display: flex;
+    background: #E9E9E9;
+}
