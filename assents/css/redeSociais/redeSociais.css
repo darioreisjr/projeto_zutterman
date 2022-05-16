@@ -2,3 +2,12 @@
     width: 25vw;
     padding: 47px 0 91px 151px;
 }
+
+@media only screen and (max-width: 600px) {
+    .redeSociais{
+        width: 100vw;
+        text-align: center;
+        padding: 47px 0 50px 0;
+    }
+}
+

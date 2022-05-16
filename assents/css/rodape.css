@@ -4,3 +4,12 @@
     background: #E9E9E9;
     box-sizing: border-box;
 }
+
+@media only screen and (max-width: 600px) {
+    .rodape{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
+

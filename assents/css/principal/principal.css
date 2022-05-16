@@ -4,3 +4,18 @@
     display: flex;
     background: #E9E9E9;
 }
+
+@media only screen and (max-width: 600px) {
+    .principal {
+        height: calc(100vh - 57px);
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .principal {
+        height: calc(100vh - 96px);
+        flex-direction: column;
+
+    }
+}

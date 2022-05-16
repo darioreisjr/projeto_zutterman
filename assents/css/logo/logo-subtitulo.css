@@ -7,3 +7,9 @@
     letter-spacing: 5.4px;
     color: #846219;
 }
+
+@media only screen and (max-width: 600px) {
+    .logo__subtitulo {
+        display: none;
+    }
+}

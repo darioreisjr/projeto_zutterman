@@ -5,3 +5,9 @@
     font-weight: bold;
     margin-bottom: 0.8em;
 }
+
+@media only screen and (max-width: 600px) {
+    .contato__titulo{
+        text-align: center;
+    }
+}

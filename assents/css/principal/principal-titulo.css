@@ -8,3 +8,18 @@
     font-size: 5.1875em;
     font-weight: bold;
 }
+
+@media only screen and (max-width: 600px) {
+    .principal__titulo {
+        width: 100vw;
+        height: 50vh;
+        font-size: 3.325rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .principal__titulo {
+       width: 100vw;
+       height: 45vh;
+    }
+}

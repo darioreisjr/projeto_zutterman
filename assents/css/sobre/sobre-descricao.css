@@ -6,3 +6,18 @@
     line-height: 56px;
     font-weight: 10;
 }
+
+@media only screen and (max-width: 600px) {
+    .sobre__descricao {
+        font-size: 1.7rem;
+        line-height: 30px;
+        
+    }
+}
+
+
+@media only screen and (max-width: 992px) {
+    .sobre__descricao {
+        width: 90vw;
+    }
+}
